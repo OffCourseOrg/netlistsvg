@@ -1,5 +1,5 @@
 {
-  "name": "netlistsvg",
+  "name": "netlistsvg-offcourse",
   "version": "1.0.2",
   "description": "rendering a schematic from a netlist",
   "main": "built/index.js",
@@ -23,7 +23,7 @@
     "url": "git+https://github.com/nturley/netlistsvg.git"
   },
   "bin": {
-    "netlistsvg": "./bin/netlistsvg.js",
+    "netlistsvg-offcourse": "./bin/netlistsvg.js",
     "netlistsvg-dumplayout": "./bin/exportLayout.js"
   },
   "scripts": {
