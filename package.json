@@ -23,7 +23,7 @@
     "url": "git+https://github.com/nturley/netlistsvg.git"
   },
   "bin": {
-    "netlistsvg": "./bin/netlistsvg.js",
+    "netlistsvg-offcourse": "./bin/netlistsvg.js",
     "netlistsvg-dumplayout": "./bin/exportLayout.js"
   },
   "scripts": {
