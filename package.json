@@ -1,5 +1,5 @@
 {
-  "name": "netlistsvg",
+  "name": "netlistsvg-offcourse",
   "version": "1.0.2",
   "description": "rendering a schematic from a netlist",
   "main": "built/index.js",
